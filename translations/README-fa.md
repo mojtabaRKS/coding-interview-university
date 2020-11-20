@@ -586,7 +586,7 @@
         - [ ] [بافر چرخشی/FIFO](https://en.wikipedia.org/wiki/Circular_buffer)
         - [ ] [صف های الویت دار (ویدیو)](https://archive.org/details/0102WhatYouShouldKnow/05_04-priorityQueuesAndDeques.mp4)
         - [ ] با اشاره گر و لیست پیوندی اینارو پیاده سازی کنید:
-            - enqueue(value) - adds value at position at tail
+            - enqueue(value) - مقداری رو در موقعیت مورد نظر از انتها اضافه میکنه
             - dequeue() - returns value and removes least recently added element (front)
             - empty()
         - [ ] Implement using fixed-sized array:
